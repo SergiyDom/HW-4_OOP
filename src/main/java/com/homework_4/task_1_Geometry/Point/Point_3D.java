@@ -1,4 +1,4 @@
-package com.Point;
+package com.homework_4.task_1_Geometry.Point;
 
 public class Point_3D extends Vertics {
     private double x;

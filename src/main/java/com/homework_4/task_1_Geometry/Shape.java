@@ -1,6 +1,6 @@
-package com;
+package com.homework_4.task_1_Geometry;
 
-import com.Point.Vertics;
+import com.homework_4.task_1_Geometry.Point.Vertics;
 
 import java.util.ArrayList;
 import java.util.List;

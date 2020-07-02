@@ -1,6 +1,6 @@
-package com.Shape_3D;
+package com.homework_4.task_1_Geometry.Shape_3D;
 
-import com.Point.Point_3D;
+import com.homework_4.task_1_Geometry.Point.Point_3D;
 
 public class Cuboid extends SpaceShape {
     private double width;

@@ -1,11 +1,11 @@
-package com.Shape_2D;
+package com.homework_4.task_1_Geometry.Shape_2D;
 
 
-import com.Interfaces.AreaMeasurable;
-import com.Interfaces.PerimeterMeasurable;
-import com.Point.Point_2D;
-import com.Point.Vertics;
-import com.Shape;
+import com.homework_4.task_1_Geometry.Interfaces.AreaMeasurable;
+import com.homework_4.task_1_Geometry.Interfaces.PerimeterMeasurable;
+import com.homework_4.task_1_Geometry.Point.Point_2D;
+import com.homework_4.task_1_Geometry.Point.Vertics;
+import com.homework_4.task_1_Geometry.Shape;
 
 public class PlaneShape extends Shape implements PerimeterMeasurable, AreaMeasurable {
     protected void addVertic(Point_2D point) {

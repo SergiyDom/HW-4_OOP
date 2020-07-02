@@ -1,13 +1,13 @@
-package com;
+package com.homework_4.task_1_Geometry;
 
-import com.Point.Point_2D;
-import com.Point.Point_3D;
-import com.Shape_2D.Circle;
-import com.Shape_2D.Rectangle;
-import com.Shape_2D.Triangle;
-import com.Shape_3D.Cuboid;
-import com.Shape_3D.Sphere;
-import com.Shape_3D.SquarePyramid;
+import com.homework_4.task_1_Geometry.Point.Point_2D;
+import com.homework_4.task_1_Geometry.Point.Point_3D;
+import com.homework_4.task_1_Geometry.Shape_2D.Circle;
+import com.homework_4.task_1_Geometry.Shape_2D.Rectangle;
+import com.homework_4.task_1_Geometry.Shape_2D.Triangle;
+import com.homework_4.task_1_Geometry.Shape_3D.Cuboid;
+import com.homework_4.task_1_Geometry.Shape_3D.Sphere;
+import com.homework_4.task_1_Geometry.Shape_3D.SquarePyramid;
 
 import java.util.ArrayList;
 import java.util.List;

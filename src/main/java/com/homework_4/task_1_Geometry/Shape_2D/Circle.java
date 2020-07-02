@@ -1,6 +1,6 @@
-package com.Shape_2D;
+package com.homework_4.task_1_Geometry.Shape_2D;
 
-import com.Point.Point_2D;
+import com.homework_4.task_1_Geometry.Point.Point_2D;
 
 import static java.lang.Math.PI;
 

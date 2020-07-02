@@ -1,6 +1,6 @@
-package com.Shape_3D;
+package com.homework_4.task_1_Geometry.Shape_3D;
 
-import com.Point.Point_3D;
+import com.homework_4.task_1_Geometry.Point.Point_3D;
 
 import static java.lang.Math.PI;
 
@@ -14,11 +14,11 @@ public class Sphere extends SpaceShape {
 
     @Override
     public double getArea() {
-        return Math.round(4*PI*Math.pow(this.radius,2)*100)/100.0;
+        return Math.round(4 * PI * Math.pow(this.radius, 2) * 100) / 100.0;
     }
 
     @Override
     public double getVolume() {
-        return Math.round(4/3.0*PI*Math.pow(this.radius,3)*100)/100.0;
+        return Math.round(4 / 3.0 * PI * Math.pow(this.radius, 3) * 100) / 100.0;
     }
 }

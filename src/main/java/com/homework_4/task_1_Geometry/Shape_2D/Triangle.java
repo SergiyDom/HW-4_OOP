@@ -1,6 +1,6 @@
-package com.Shape_2D;
+package com.homework_4.task_1_Geometry.Shape_2D;
 
-import com.Point.Point_2D;
+import com.homework_4.task_1_Geometry.Point.Point_2D;
 
 public class Triangle extends PlaneShape {
 
@@ -13,12 +13,12 @@ public class Triangle extends PlaneShape {
     @Override
     public double getArea() {
         double p = this.getPerimeter() / 2;
-        return Math.round(Math.sqrt(p * (p - sideAB()) * (p - sideBC()) * (p - sideAC()))*100)/100.0;
+        return Math.round(Math.sqrt(p * (p - sideAB()) * (p - sideBC()) * (p - sideAC())) * 100) / 100.0;
     }
 
     @Override
     public double getPerimeter() {
-        return Math.round((sideAB() + sideAC() + sideBC())*100)/100.0;
+        return Math.round((sideAB() + sideAC() + sideBC()) * 100) / 100.0;
     }
 
     private double sideAB() {

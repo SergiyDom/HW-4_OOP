@@ -1,10 +1,10 @@
-package com.Shape_3D;
+package com.homework_4.task_1_Geometry.Shape_3D;
 
-import com.Interfaces.AreaMeasurable;
-import com.Interfaces.VolumeMeasurable;
-import com.Point.Point_3D;
-import com.Point.Vertics;
-import com.Shape;
+import com.homework_4.task_1_Geometry.Interfaces.AreaMeasurable;
+import com.homework_4.task_1_Geometry.Interfaces.VolumeMeasurable;
+import com.homework_4.task_1_Geometry.Point.Point_3D;
+import com.homework_4.task_1_Geometry.Point.Vertics;
+import com.homework_4.task_1_Geometry.Shape;
 
 public class SpaceShape extends Shape implements AreaMeasurable, VolumeMeasurable {
     public void addVertic(Point_3D point) {
