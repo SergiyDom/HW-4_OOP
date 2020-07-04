@@ -1,8 +1,6 @@
 package com.homework_4.task_1_Geometry.Point;
 
 public class Point_3D extends Vertics {
-    private double x;
-    private double y;
     private double z;
 
     public Point_3D(double x, double y, double z) {
