@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.homework_4.task_2_shop;
 
 import com.homework_4.task_2_shop.Person.Customer;
@@ -6,6 +7,15 @@ import com.homework_4.task_2_shop.Product.Electronic.Computer;
 import com.homework_4.task_2_shop.Product.Food.FoodProduct;
 import com.homework_4.task_2_shop.Product.Product;
 import com.homework_4.task_2_shop.Service.AgeRastriction;
+=======
+package com.shop;
+
+import com.shop.Person.Customer;
+import com.shop.Product.Electronic.Appliance;
+import com.shop.Product.Electronic.Computer;
+import com.shop.Product.Food.FoodProduct;
+import com.shop.Product.Product;
+>>>>>>> origin/master
 
 import java.util.ArrayList;
 import java.util.Date;

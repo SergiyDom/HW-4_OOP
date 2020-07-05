@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 package com.homework_4.task_2_shop.Product.Electronic;
 
 import com.homework_4.task_2_shop.Service.AgeRastriction;
+=======
+package com.shop.Product.Electronic;
+>>>>>>> origin/master
 
 public class Computer extends ElectornicsProduct {
     final double discount = 0.95;

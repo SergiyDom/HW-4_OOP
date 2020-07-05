@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.homework_4.task_2_shop.Person;
+=======
+package com.shop.Person;
+>>>>>>> origin/master
 
 public class Customer {
     private String name;

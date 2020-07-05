@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 package com.homework_4.task_2_shop.Product.Food;
 
 import com.homework_4.task_2_shop.Product.Product;
 import com.homework_4.task_2_shop.Service.AgeRastriction;
 import com.homework_4.task_2_shop.Service.Expirable;
+=======
+package com.shop.Product.Food;
+
+import com.shop.Product.Product;
+>>>>>>> origin/master
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

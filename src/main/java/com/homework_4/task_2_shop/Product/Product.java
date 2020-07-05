@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 package com.homework_4.task_2_shop.Product;
 
 import com.homework_4.task_2_shop.Service.AgeRastriction;
 import com.homework_4.task_2_shop.Service.Buyable;
+=======
+package com.shop.Product;
+>>>>>>> origin/master
 
 public abstract class Product implements Buyable {
     protected String name;
